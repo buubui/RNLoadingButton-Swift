@@ -19,7 +19,7 @@ public enum RNActivityIndicatorAlignment: Int {
 }
 
 
-@IBDesignable
+//@IBDesignable
 open class RNLoadingButton: UIButton {
     
     // Loading state
